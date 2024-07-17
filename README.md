@@ -14,6 +14,7 @@
 
 ## Source Code
 This token was created using the `spl-token` CLI on the Solana blockchain. 
+https://spl.solana.com/token
 
 ## Description
 An SPL token to be used within the Solana ecosystem. skefteite tipote.

@@ -21,7 +21,7 @@ An SPL token to be used within the Solana ecosystem. skefteite tipote.
 ## Links
 - [Website](https://gkappa.org/)
 - [Whitepaper](??????????)
-- [Community Links](https://x.com/GoldenKappa777), (https://discord.gg/dUHqggG7mJ)
+- (https://x.com/GoldenKappa777), (https://discord.gg/dUHqggG7mJ)
 
 ## Logo
 ![Logo](https://gateway.pinata.cloud/ipfs/QmbgDgsdWnfnjamFqYrjRKhuJ1XjS3rKf9reYT6oXrS6KY)

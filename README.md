@@ -5,6 +5,7 @@
 - **Symbol:** GKAPPA
 - **Decimal Places:** 7
 - **Total Supply:** 777,777,777,777 GKAPPA
+- **Circulating Supply:** 777,777,776,777
 
 ## Token Address
 - n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM

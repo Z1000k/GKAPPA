@@ -10,7 +10,7 @@
 ## Token Address
 - n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM
 
-## Token Program
+## Token Program ID
 - TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
 
 ## Source Code

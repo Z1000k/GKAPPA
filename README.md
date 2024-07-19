@@ -15,7 +15,11 @@
 
 
 ## Description
-- GOLDEN KAPPA (GKAPPA) IS A COMMUNITY MEMECOIN WITHIN THE SOLANA ECOSYSTEM. 
+- GOLDEN KAPPA (GKAPPA) IS A COMMUNITY MEMECOIN WITHIN THE SOLANA ECOSYSTEM.
+
+## POOLS
+- https://app.meteora.ag/pools/CUJmQdXVPKdMcnfbmW7yuGHDhQRY1MeMQwHQTBeese2v (Meteora Dynamic Pool)
+- https://www.orca.so/pools?tokens=n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM (Orca Whirlpool)
 
 
 ## Links

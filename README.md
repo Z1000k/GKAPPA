@@ -23,7 +23,7 @@
 
 
 ## Links
-- [Website](https://gkappa.org/)
+- [Official Website](https://gkappa.org/)
 - [Whitepaper](https://gkappa.org/wp-content/uploads/2024/07/WHITEPAPER_GKAPPA.pdf)
 - [Twitter](https://x.com/GoldenKappa777)
 - [Discord](https://discord.gg/dUHqggG7mJ)

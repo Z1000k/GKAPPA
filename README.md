@@ -13,11 +13,9 @@
 ## Token Program ID
 - TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
 
-## Source Code
-This token was created using the `spl-token` CLI on the Solana blockchain. 
-https://spl.solana.com/token
 
 ## Description
+- GOLDEN KAPPA (GKAPPA) IS A COMMUNITY MEMECOIN WITHIN THE SOLANA ECOSYSTEM. 
 
 
 ## Links

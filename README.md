@@ -5,7 +5,8 @@
 - **Symbol:** GKAPPA
 - **Decimal Places:** 7
 - **Total Supply:** 777,777,777,777 
-- **Circulating Supply:** 777,777,776,776 
+- **Circulating Supply:** 777,777,776,776
+- [Logo](https://gateway.pinata.cloud/ipfs/QmbgDgsdWnfnjamFqYrjRKhuJ1XjS3rKf9reYT6oXrS6KY) 
 
 ## Mint Address
 - n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM
@@ -31,5 +32,4 @@
 - [Twitter](https://x.com/GoldenKappa777)
 - [Discord](https://discord.gg/dUHqggG7mJ)
 
-## Logo
-![Logo](https://gateway.pinata.cloud/ipfs/QmbgDgsdWnfnjamFqYrjRKhuJ1XjS3rKf9reYT6oXrS6KY)
+

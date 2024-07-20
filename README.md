@@ -13,13 +13,16 @@
 ## Token Program ID
 - TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
 
+## Block Explorer
+- https://solscan.io/token/n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM
+
 
 ## Description
 - GOLDEN KAPPA (GKAPPA) IS A COMMUNITY MEMECOIN WITHIN THE SOLANA ECOSYSTEM.
 
 ## Pools (GKAPPA/SOL)
-- https://app.meteora.ag/pools/CUJmQdXVPKdMcnfbmW7yuGHDhQRY1MeMQwHQTBeese2v (Meteora Dynamic Pool)
-- https://www.orca.so/pools?tokens=n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM (Orca Whirlpool)
+- [Meteora Dynamic Pool]https://app.meteora.ag/pools/CUJmQdXVPKdMcnfbmW7yuGHDhQRY1MeMQwHQTBeese2v
+- [Orca Whirlpool]https://www.orca.so/pools?tokens=n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM
 
 
 ## Links

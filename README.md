@@ -1,5 +1,8 @@
 # Golden Kappa (GKAPPA)
 
+## Description
+- GOLDEN KAPPA (GKAPPA) IS A COMMUNITY MEMECOIN WITHIN THE SOLANA ECOSYSTEM.
+
 ## Overview
 - **Token Name:** Golden Kappa
 - **Symbol:** GKAPPA
@@ -17,9 +20,6 @@
 ## Block Explorer
 - https://solscan.io/token/n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM
 
-
-## Description
-- GOLDEN KAPPA (GKAPPA) IS A COMMUNITY MEMECOIN WITHIN THE SOLANA ECOSYSTEM.
 
 ## Pools (GKAPPA/SOL)
 - [Meteora Dynamic Pool](https://app.meteora.ag/pools/CUJmQdXVPKdMcnfbmW7yuGHDhQRY1MeMQwHQTBeese2v)

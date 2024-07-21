@@ -23,7 +23,7 @@
 
 ## Pools (GKAPPA/SOL)
 - [Meteora Dynamic Pool](https://app.meteora.ag/pools/CUJmQdXVPKdMcnfbmW7yuGHDhQRY1MeMQwHQTBeese2v)
-- [Orca Whirlpool](https://www.orca.so/pools?tokens=n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM)
+
 
 
 ## Links
